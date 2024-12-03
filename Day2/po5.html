@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline and Internal Styles Example</title>
+    <style>
+        /* Internal styles */
+        a.internal-style {
+            color: #007bff; /* Blue color */
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a.internal-style:hover {
+            color: #0056b3; /* Darker blue on hover */
+        }
+    </style>
+</head>
+<body>
+    <h1>Inline and Internal Styles for a Tag</h1>
+    <p>This is an example of how to use <em>inline</em> and <em>internal</em> styles for an anchor (<code>&lt;a&gt;</code>) tag.</p>
+
+    <!-- Inline style -->
+    <p><a href="#" style="color: green; text-decoration: underline;">This is an inline styled link</a></p>
+
+    <!-- Internal style -->
+    <p><a href="#" class="internal-style">This is an internally styled link</a></p>
+</body>
+</html>

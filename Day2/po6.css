@@ -1,0 +1,59 @@
+/* Style for the first paragraph */
+.para1 {
+    color: blue; /* Text color */
+}
+
+/* Style for the second paragraph */
+.para2 {
+    background-color: yellow; /* Background color */
+}
+
+/* Style for the third paragraph */
+.para3 {
+    text-align: center; /* Text alignment */
+}
+
+/* Style for the fourth paragraph */
+.para4 {
+    direction: ltr; /* Text direction */
+}
+
+/* Style for the fifth paragraph */
+.para5 {
+    text-transform: uppercase; /* Text transformation */
+}
+
+/* Style for the sixth paragraph */
+.para6 {
+    text-indent: 20px; /* Text indentation */
+}
+
+/* Style for the seventh paragraph */
+.para7 {
+    letter-spacing: 2px; /* Letter spacing */
+}
+
+/* Style for the eighth paragraph */
+.para8 {
+    line-height: 1.5; /* Line height */
+}
+
+/* Style for the ninth paragraph */
+.para9 {
+    word-spacing: 5px; /* Word spacing */
+}
+
+/* Style for the tenth paragraph */
+.para10 {
+    white-space: nowrap; /* White space */
+}
+
+/* Style for the eleventh paragraph */
+.para11 {
+    text-shadow: 2px 2px #ff0000; /* Text shadow */
+}
+
+/* Style for the twelfth paragraph */
+.para12 {
+    font-style: italic; /* Font style */
+}
